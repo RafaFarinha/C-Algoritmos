@@ -1,0 +1,9 @@
+Comandos GIT
+
+
+git clone: clona um repositorio, adicionar o link URL depois do comando
+Exemplo: git clone <https://link-com-o-nome-do-repositório>
+
+git Branch: serve para criar uma ramificação do projeto, assim varios devs.
+conseguem trabalhar em conjunto em um mesmo projeto.
+Exemplo: git branch <nome-da-branch> 
